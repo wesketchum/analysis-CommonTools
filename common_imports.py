@@ -12,6 +12,7 @@ import scipy.stats
 import scipy.optimize
 import glob
 import time
+import array
 
 try:
     import numba
